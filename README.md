@@ -11,6 +11,6 @@ Tensorflow 2
 opencv-python
 numpy
 scikit-learn
-mediapipe
 scipy
+mediapipe
 ```
