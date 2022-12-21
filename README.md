@@ -5,7 +5,7 @@
 3. Run the ```train.py``` script to generate their face embeddings
 4. Finally run the ```identify.py``` script 
 
-Download model weights from [here.]https://drive.google.com/file/d/1pQ8_5QbJxRADLSjQa12SydcFWW-5rLaI/view?usp=sharing
+Download model weights from [here.](https://drive.google.com/file/d/1pQ8_5QbJxRADLSjQa12SydcFWW-5rLaI/view?usp=sharing)
 
 # Dependencies
 ```
