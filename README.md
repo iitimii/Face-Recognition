@@ -8,9 +8,9 @@
 # Dependencies
 ```
 Tensorflow 2
-numpy
 opencv-python
-mediapipe
+numpy
 scikit-learn
+mediapipe
 scipy
 ```
