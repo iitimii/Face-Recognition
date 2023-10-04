@@ -1,4 +1,8 @@
 # Face Recognition with Facenet
+
+![image](https://github.com/FloatinggOnion/Face-Recognition/assets/47384762/76962b5d-bef8-4c5b-9989-96064b4646d4)
+
+
 ## Steps to follow:
 1. For each person you want to identify, make a directory in the ```IMAGES``` folder and title it their name
 2. Place 1 or 2 images (preferably without glasses) of each person in their respective folder
